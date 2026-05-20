@@ -77,7 +77,7 @@
 
 # 🚀 Featured Projects
 
-## 🍽️ Cafe-Ruu [Restaurant Website]
+## ⭐ Cafe-Ruu [Restaurant Website]
 A fully responsive restaurant landing page built using HTML, CSS, JavaScript and EmailJS
 
 🔗 Live Demo: https://caferuu.netlify.app/
@@ -96,11 +96,11 @@ HTML | CSS | JavaScript | Netlify | EmailJS
 
 ---
 
-##  NeoLight – Smart Study Lamp
+##  ⭐ NeoLight – Smart Study Lamp
 
 NeoLight is an IoT-based smart study lamp designed to improve productivity and promote healthy work habits.
 
-🔗 Simulation: https://caferuu.netlify.app/
+🔗 Simulation Link: https://wokwi.com/projects/462355286077702145
 
 ### Features:
 - Presence Detection
@@ -112,24 +112,10 @@ Arduino Uno | ESP8266 | C++ | IoT
 
 ---
 
-## 📘 DSA Practice Repository
-Collection of solved Data Structures and Algorithms problems with optimized solutions.
+##  ⭐ Personal Portfolio Website
+(Still Working on it.)
 
-### Topics Covered:
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-
----
-
-## 🌐 Personal Portfolio Website
 A personal portfolio website showcasing my skills, projects, and achievements.
-
-### Tech Stack:
-HTML | CSS | JavaScript
 
 ---
 
@@ -142,57 +128,18 @@ HTML | CSS | JavaScript
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/yash_dhame_18">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:yashdhame12@gmail.comm">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/YashDhame9906">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
-
-# 💡 Quote
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider following me!
-</p>
