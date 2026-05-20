@@ -1,83 +1,74 @@
-<h1 align="center">Hi 👋, I'm Yash Dhame</h1>
-<h3 align="center">Computer Engineering Student | Full Stack Developer | DSA Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi, I'm Yash Dhame</h1>
+<h3 align="center">Computer Engineering Student | Frontend Developer | DSA Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Full+Stack+Developer;DSA+Learner;Open+Source+Enthusiast;Building+Real+World+Projects&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Frontend+Developer;DSA+Enthusiast;Building+Real+World+Projects&center=true&width=600&height=50">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 ---
 
-# 🚀 About Me
+#  ⭐ About Me
 
-🎓 Second Year Computer Engineering Student at **Savitribai Phule Pune University**
+🎓 Second Year Computer Engineering Student at **Dr. D. Y. Patil Institute of Technology, Pimpri** under **Savitribai Phule Pune University**
 
-💻 Passionate about:
-- Full Stack Web Development
-- Data Structures and Algorithms
+ Passionate about:
 - Problem Solving
-- Open Source Contribution
+- Web Development
 - Software Development
+- Data Structures and Algorithms
 
-🌱 Currently Learning:
-- React.js
-- Node.js
+ Currently Learning:
+- AIML
 - MongoDB
 - Advanced DSA
+- React.js & Node.js
 
-🎯 Goal:
+ Goal:
 - Become a Software Engineer at a top product-based company.
+- Contribute or being a part of Startup
 
-⚡ Fun Fact:
-- I love converting ideas into real-world applications.
+
 
 ---
 
 # 🛠️ Skills & Technologies
 
-## 💻 Programming Languages
+##  Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,js,react" />
 </p>
 
-## 🌐 Web Development
+
+
+##  Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,nosql" />
 </p>
 
-## 🗄️ Databases
+##  Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
 </p>
 
-## ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
-</p>
-
-## 📚 Core Concepts
+##  Core Concept
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Database Management Systems
 - Operating Systems
-- Computer Networks
-- Software Engineering
+
 
 ---
 
-# 🧠 Coding Profiles
+# 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  
+  <a href="https://leetcode.com/yash_dhame_18">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://www.codechef.com/users/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" />
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_USERNAME">
+  <a href="https://www.hackerrank.com/yashdhame12">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
   </a>
 </p>
@@ -86,29 +77,35 @@
 
 # 🚀 Featured Projects
 
-## 🍽️ Restaurant Website
-A fully responsive restaurant landing page built using HTML, CSS, and JavaScript.
+## 🍽️ Cafe-Ruu [Restaurant Website]
+A fully responsive restaurant landing page built using HTML, CSS, JavaScript and EmailJS
+
+🔗 Live Demo: https://caferuu.netlify.app/
 
 ### Features:
 - Responsive design
 - Animated sections
 - Contact form
 - Modern UI/UX
+- Confirmation Mails 
 
 ### Tech Stack:
-HTML | CSS | JavaScript | Netlify
+HTML | CSS | JavaScript | Netlify | EmailJS
 
-🔗 Live Demo: https://caferuu.netlify.app/
+
 
 ---
 
-## 🚦 Pedestrian Crosswalk Automation Using IoT
-An IoT-based smart city project using pressure sensors and ESP8266 to automate pedestrian traffic signals.
+##  NeoLight – Smart Study Lamp
+
+NeoLight is an IoT-based smart study lamp designed to improve productivity and promote healthy work habits.
+
+🔗 Simulation: https://caferuu.netlify.app/
 
 ### Features:
-- Pressure sensor detection
-- Automatic traffic signal control
-- Cloud monitoring using ThingSpeak/Blynk
+- Presence Detection
+- Smart Power Saving Mode
+- Buzzer Alert reminds the user to take a break
 
 ### Tech Stack:
 Arduino Uno | ESP8266 | C++ | IoT
