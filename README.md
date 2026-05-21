@@ -131,7 +131,7 @@ A personal portfolio website showcasing my skills, projects, and achievements.
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yash_dhame_18">
+  <a href="https://linkedin.com/in/yashdhame18">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:yashdhame12@gmail.comm">
