@@ -1,11 +1,31 @@
 <h1 align="center">Hi, I'm Yash Dhame</h1>
+
 <h3 align="center">Computer Engineering Student | Frontend Developer | DSA Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Frontend+Developer;DSA+Enthusiast;Building+Real+World+Projects&center=true&width=600&height=50">
 </p>
 
+---
+# 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://linkedin.com/in/yashdhame18">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yashdhame12@gmail.comm">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/YashDhame9906">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+   <a href="https://leetcode.com/yash_dhame_18">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/yashdhame12">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
+  </a>
+</p>
 
 ---
 
@@ -58,20 +78,6 @@
 - Database Management Systems
 - Operating Systems
 
-
----
-
-# 💻 Coding Profiles
-
-<p align="left">
-  
-  <a href="https://leetcode.com/yash_dhame_18">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://www.hackerrank.com/yashdhame12">
-    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
-  </a>
-</p>
 
 ---
 
@@ -128,17 +134,16 @@ A personal portfolio website showcasing my skills, projects, and achievements.
 
 ---
 
-# 🌐 Connect With Me
+
+# 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://linkedin.com/in/yashdhame18">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  
+  <a href="https://leetcode.com/yash_dhame_18">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="mailto:yashdhame12@gmail.comm">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/YashDhame9906">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <a href="https://www.hackerrank.com/yashdhame12">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
   </a>
 </p>
 
