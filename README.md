@@ -132,19 +132,19 @@ A personal portfolio website showcasing my skills, projects, and achievements.
 - Consistently improving problem-solving skills.
 - Active learner in web development and software engineering.
 
+  ---
+## 📊 GitHub Stats
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YashDhame9906&theme=radical)
+
+
+
 ---
 
+## 📈 Contribution Graph
 
-# 💻 Coding Profiles
-
-<p align="left">
-  
-  <a href="https://leetcode.com/yash_dhame_18">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://www.hackerrank.com/yashdhame12">
-    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
-  </a>
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashDhame9906&theme=react-dark)
 
 ---
