@@ -103,6 +103,22 @@ A fully responsive restaurant landing page built using HTML, CSS, JavaScript and
 ### Tech Stack:
 HTML | CSS | JavaScript | Netlify | EmailJS
 
+---
+
+
+##  ⭐ Personal Portfolio Website
+A fully responsive personal portfolio website to showcase projects, skills, and achievements.
+
+🔗 Live Demo: https://your-portfolio-link.netlify.app/
+
+Features:
+-Responsive design
+-Modern UI/UX
+-Smooth scrolling navigation
+
+### Tech Stack:
+
+HTML | CSS | JavaScript | github
 
 
 ---
@@ -120,13 +136,6 @@ NeoLight is an IoT-based smart study lamp designed to improve productivity and p
 
 ### Tech Stack:
 Arduino Uno | ESP8266 | C++ | IoT
-
----
-
-##  ⭐ Personal Portfolio Website
-(Still Working on it.)
-
-A personal portfolio website showcasing my skills, projects, and achievements.
 
 ---
 
