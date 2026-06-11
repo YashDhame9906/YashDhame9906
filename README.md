@@ -103,25 +103,24 @@ A fully responsive restaurant landing page built using HTML, CSS, JavaScript and
 ### Tech Stack:
 HTML | CSS | JavaScript | Netlify | EmailJS
 
----
+
 
 
 ##  ⭐ Personal Portfolio Website
 A fully responsive personal portfolio website to showcase projects, skills, and achievements.
 
-🔗 Live Demo: https://your-portfolio-link.netlify.app/
+🔗 Live Demo: https://yashdhame9906.github.io/yashdhame-portfolio/
 
-Features:
--Responsive design
--Modern UI/UX
--Smooth scrolling navigation
+### Features:
+- Responsive design
+- Modern UI/UX
+- Smooth scrolling navigation
 
 ### Tech Stack:
 
 HTML | CSS | JavaScript | github
 
 
----
 
 ##  ⭐ NeoLight – Smart Study Lamp
 
