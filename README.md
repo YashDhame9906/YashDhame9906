@@ -122,7 +122,7 @@ HTML | CSS | JavaScript | github
 
 
 
-##  ⭐ NeoLight – Smart Study Lamp
+##  ⭐ NeoLight – Smart IOT based Study Lamp
 
 NeoLight is an IoT-based smart study lamp designed to improve productivity and promote healthy work habits.
 
