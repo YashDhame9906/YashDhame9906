@@ -46,7 +46,6 @@
 
  Currently Learning:
 - AIML
-- MongoDB
 - Advanced DSA
 - React.js & Node.js
 
