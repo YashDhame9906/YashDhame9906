@@ -144,13 +144,6 @@ Arduino Uno | ESP8266 | C++ | IoT
 - Consistently improving problem-solving skills.
 - Active learner in web development and software engineering.
 
-  ---
-## 📊 GitHub Stats
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YashDhame9906&theme=radical)
-
 
 
 ---
