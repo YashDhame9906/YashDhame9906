@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yash Dhame</h1>
+<h1 align="center">Hi, I'm <b>Yash Dhame</b></h1>
 
 <h3 align="center">Computer Engineering Student | Frontend Developer | DSA Enthusiast | Problem Solver</h3>
 
