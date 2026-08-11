@@ -30,7 +30,7 @@
 
 ---
 
-## About Me
+## ⭐About Me
 
 I am a **Third Year Computer Engineering student** at **Dr. D. Y. Patil Institute of Technology, Pimpri**, affiliated with **Savitribai Phule Pune University (SPPU)**.
 
@@ -42,46 +42,24 @@ I have completed my **MERN Stack Development journey** and am currently expandin
 
 
 ---
+## 🛠️ Technical Skills
 
-## Technical Skills
+<div align="center">
 
-### Languages
+| Category | Technologies |
+|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=javascript,python,java,c" height="40" /> |
+| **MERN Stack** | <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="40" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" height="40" /> |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,c" />
-</p>
-
-### MERN Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
-
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
-</p>
+</div>
 
 ---
-## Featured Projects
+## ⭐ Featured Projects
 
-### PuneVerse — MERN Travel & Trip Planning Platform
+### ✦ PuneVerse — MERN Travel & Trip Planning Platform
 
 A full-stack MERN application designed to help users discover destinations and plan trips with friends.
 
@@ -102,7 +80,7 @@ A full-stack MERN application designed to help users discover destinations and p
 
 ---
 
-### Cafe-Ruu — Restaurant Website
+### ✦ Cafe-Ruu — Restaurant Website
 
 A responsive restaurant website with an interactive ordering experience.
 
@@ -124,7 +102,7 @@ https://caferuu.netlify.app/
 
 ---
 
-### Personal Portfolio Website
+### ✦ Personal Portfolio Website
 
 A responsive portfolio website showcasing my projects, skills, certifications, and development journey.
 
@@ -137,7 +115,7 @@ https://yashdhame9906.github.io/yashdhame-portfolio/
 
 ---
 
-### NeoLight — IoT Smart Study Lamp
+### ✦ NeoLight — IoT Smart Study Lamp
 
 An IoT-based smart study lamp designed to improve productivity and encourage healthy study habits.
 
@@ -158,7 +136,7 @@ https://wokwi.com/projects/462355286077702145
 
 ---
 
-## Core Concepts
+## ⭐Core Concepts
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
@@ -173,7 +151,7 @@ https://wokwi.com/projects/462355286077702145
 
 ---
 
-## Contribution Activity
+## ⭐Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashDhame9906&theme=react-dark&hide_border=true"/>
@@ -189,7 +167,7 @@ https://wokwi.com/projects/462355286077702145
 
 ---
 
-## Let's Connect
+## ⭐Let's Connect
 
 I am open to:
 
