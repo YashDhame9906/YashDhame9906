@@ -1,155 +1,212 @@
-<h1 align="center">Hi, I'm <b>Yash Dhame</b></h1>
+<h1 align="center">Hi, I'm Yash Dhame 👋</h1>
 
-<h3 align="center">Computer Engineering Student | Frontend Developer | DSA Enthusiast | Problem Solver</h3>
+<h3 align="center">
+  Computer Engineering Student • MERN Stack Developer • Data Science & ML Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Frontend+Developer;DSA+Enthusiast;Building+Real+World+Projects&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full-Stack+Web+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;DSA+Enthusiast&center=true&width=650&height=50" />
 </p>
 
----
-# 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/yashdhame18">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:yashdhame12@gmail.comm">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YashDhame9906">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-   <a href="https://leetcode.com/yash_dhame_18">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/yash_dhame_18">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.hackerrank.com/yashdhame12">
-    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-
 <a href="https://yashdhame9906.github.io/yashdhame-portfolio/" target="_blank">
+
   <img src="https://img.shields.io/badge/💜_Portfolio-Visit-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+
 </a>
-
 </p>
 
 ---
 
-#  ⭐ About Me
+## About Me
 
-🎓 Second Year Computer Engineering Student at **Dr. D. Y. Patil Institute of Technology, Pimpri** under **Savitribai Phule Pune University**
+I am a **Third Year Computer Engineering student** at **Dr. D. Y. Patil Institute of Technology, Pimpri**, affiliated with **Savitribai Phule Pune University (SPPU)**.
 
- Passionate about:
-- Problem Solving
-- Web Development
-- Software Development
-- Data Structures and Algorithms
+I am a **MERN Stack Developer** focused on building responsive, scalable, and real-world web applications.
 
- Currently Learning:
-- AIML
-- Advanced DSA
-- React.js & Node.js
+I have completed my **MERN Stack Development journey** and am currently expanding my knowledge in **Data Science and Machine Learning**.
 
- Goal:
-- Become a Software Engineer at a top product-based company.
-- Contribute or being a part of Startup
 
 
 
 ---
 
-# 🛠️ Skills & Technologies
+## Technical Skills
 
-##  Programming Languages
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,c" />
 </p>
 
+### MERN Stack
 
-
-##  Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,nosql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
-##  Tools & Platforms
+
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-##  Core Concept
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
+
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
+</p>
+
+---
+## Featured Projects
+
+### PuneVerse — MERN Travel & Trip Planning Platform
+
+A full-stack MERN application designed to help users discover destinations and plan trips with friends.
+
+**Key Features**
+
+* Destination discovery
+* Search & filtering
+* Trip creation & management
+* Itinerary planning
+* Budget & expense management
+* Collaborative trip planning
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Tailwind CSS`
+
+**Status:** In Development
+
+---
+
+### Cafe-Ruu — Restaurant Website
+
+A responsive restaurant website with an interactive ordering experience.
+
+**Features**
+
+* Responsive UI
+* Interactive shopping cart
+* Contact form
+* Email confirmations
+* WhatsApp integration
+* Modern UI/UX
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `EmailJS`
+
+**Live Demo:**
+https://caferuu.netlify.app/
+
+---
+
+### Personal Portfolio Website
+
+A responsive portfolio website showcasing my projects, skills, certifications, and development journey.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
+**Live Demo:**
+https://yashdhame9906.github.io/yashdhame-portfolio/
+
+---
+
+### NeoLight — IoT Smart Study Lamp
+
+An IoT-based smart study lamp designed to improve productivity and encourage healthy study habits.
+
+**Features**
+
+* Presence detection
+* Automatic lamp control
+* Power-saving mode
+* Break reminders
+* Buzzer alerts
+
+**Tech Stack**
+
+`Arduino Uno` `ESP8266` `C++` `IoT`
+
+**Simulation:**
+https://wokwi.com/projects/462355286077702145
+
+---
+
+## Core Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+* REST API Architecture
+* Full-Stack Development
+* Data Analysis
+* Machine Learning Fundamentals
+* Version Control with Git
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashDhame9906&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## Currently Learning
+
+**Data Science & Machine Learning**
+
+> Expanding from full-stack development into data-driven and intelligent applications.
+
+---
+
+## Let's Connect
+
+I am open to:
+
+* Software Development Internships
+* MERN Stack Opportunities
+* Frontend Development Projects
+* Open-Source Collaboration
+* Startup Projects
+* Data Science & ML Projects
 
 
 ---
 
-# 🚀 Featured Projects
+<p align="center">
+  <b>Building. Learning. Solving. Growing. 🚀</b>
+</p>
 
-## ⭐ Cafe-Ruu [Restaurant Website]
-A fully responsive restaurant landing page built using HTML, CSS, JavaScript and EmailJS
-
-🔗 Live Demo: https://caferuu.netlify.app/
-
-### Features:
-- Responsive design
-- Animated sections
-- Contact form
-- Modern UI/UX
-- Confirmation Mails 
-
-### Tech Stack:
-HTML | CSS | JavaScript | Netlify | EmailJS
-
-
-
-
-##  ⭐ Personal Portfolio Website
-A fully responsive personal portfolio website to showcase projects, skills, and achievements.
-
-🔗 Live Demo: https://yashdhame9906.github.io/yashdhame-portfolio/
-
-### Features:
-- Responsive design
-- Modern UI/UX
-- Smooth scrolling navigation
-
-### Tech Stack:
-
-HTML | CSS | JavaScript | github
-
-
-
-##  ⭐ NeoLight – Smart IOT based Study Lamp
-
-NeoLight is an IoT-based smart study lamp designed to improve productivity and promote healthy work habits.
-
-🔗 Simulation Link: https://wokwi.com/projects/462355286077702145
-
-### Features:
-- Presence Detection
-- Smart Power Saving Mode
-- Buzzer Alert reminds the user to take a break
-
-### Tech Stack:
-Arduino Uno | ESP8266 | C++ | IoT
-
----
-
-# 🏆 Achievements
-
-- Solved multiple DSA problems on coding platforms.
-- Built several full-stack and IoT projects.
-- Consistently improving problem-solving skills.
-- Active learner in web development and software engineering.
-
-
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashDhame9906&theme=react-dark)
-
----
+<p align="center">
+  ⭐ If you find my work useful, consider starring my repositories.
+</p>
