@@ -182,7 +182,7 @@ I am open to:
 ---
 
 <p align="center">
-  <b>Building. Learning. Solving. Growing. 🚀</b>
+  <b>Building. Learning. Solving. Growing. 🚀 </b>
 </p>
 
 <p align="center">
