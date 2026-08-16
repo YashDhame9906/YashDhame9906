@@ -62,8 +62,8 @@ I have completed my **MERN Stack Development journey** and am currently expandin
 | Project       | What it does                                                                   | Tech Stack                                  | Status / Link                                               |
 | ------------- | ------------------------------------------------------------------------------ | ------------------------------------------- | ----------------------------------------------------------- |
 | **Cafe-Ruu**  | Restaurant website with ordering, cart, contact & WhatsApp integration.        | `HTML` `CSS` `JavaScript` `EmailJS`         | [Live Demo](https://caferuu.netlify.app/)                   |
-| **SnapFeed**  | MERN-based social media platform with image sharing and dynamic feeds.         | `MongoDB` `Express.js` `React.js` `Node.js` | [GitHub]((https://github.com/YashDhame9906/SnapFeed.git)     |
-| **PuneVerse** | Travel platform for discovering destinations and planning collaborative trips. | `MERN` `REST APIs` `Tailwind CSS`           | **In Development**                                          |
+| **SnapFeed**  | MERN-based social media platform with image sharing and dynamic feeds.         | `MongoDB` `Express.js` `React.js` `Node.js` | [GitHub](https://github.com/YashDhame9906/SnapFeed.git)     |
+| **PuneVerse** | Travel platform for discovering destinations and planning collaborative trips. | `MERN` `REST APIs` `Tailwind CSS`           |[GitHub](https://github.com/topics/404-pages)     |
 | **NeoLight**  | Smart IoT study lamp with automation, presence detection and break reminders.  | `Arduino` `ESP8266` `C++` `IoT`             | [Simulation](https://wokwi.com/projects/462355286077702145) |
 
 ---
