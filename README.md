@@ -30,7 +30,7 @@
 
 ---
 
-## ⭐About Me
+## ⭐ About Me
 
 I am a **Third Year Computer Engineering student** at **Dr. D. Y. Patil Institute of Technology, Pimpri**, affiliated with **Savitribai Phule Pune University (SPPU)**.
 
@@ -57,82 +57,14 @@ I have completed my **MERN Stack Development journey** and am currently expandin
 </div>
 
 ---
-## ⭐ Featured Projects
+## ⭐ Projects 
 
-### ✦ PuneVerse — MERN Travel & Trip Planning Platform
-
-A full-stack MERN application designed to help users discover destinations and plan trips with friends.
-
-**Key Features**
-
-* Destination discovery
-* Search & filtering
-* Trip creation & management
-* Itinerary planning
-* Budget & expense management
-* Collaborative trip planning
-
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Tailwind CSS`
-
-**Status:** In Development
-
----
-
-### ✦ Cafe-Ruu — Restaurant Website
-
-A responsive restaurant website with an interactive ordering experience.
-
-**Features**
-
-* Responsive UI
-* Interactive shopping cart
-* Contact form
-* Email confirmations
-* WhatsApp integration
-* Modern UI/UX
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `EmailJS`
-
-**Live Demo:**
-https://caferuu.netlify.app/
-
----
-
-### ✦ Personal Portfolio Website
-
-A responsive portfolio website showcasing my projects, skills, certifications, and development journey.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `GitHub Pages`
-
-**Live Demo:**
-https://yashdhame9906.github.io/yashdhame-portfolio/
-
----
-
-### ✦ NeoLight — IoT Smart Study Lamp
-
-An IoT-based smart study lamp designed to improve productivity and encourage healthy study habits.
-
-**Features**
-
-* Presence detection
-* Automatic lamp control
-* Power-saving mode
-* Break reminders
-* Buzzer alerts
-
-**Tech Stack**
-
-`Arduino Uno` `ESP8266` `C++` `IoT`
-
-**Simulation:**
-https://wokwi.com/projects/462355286077702145
+| Project       | What it does                                                                   | Tech Stack                                  | Status / Link                                               |
+| ------------- | ------------------------------------------------------------------------------ | ------------------------------------------- | ----------------------------------------------------------- |
+| **Cafe-Ruu**  | Restaurant website with ordering, cart, contact & WhatsApp integration.        | `HTML` `CSS` `JavaScript` `EmailJS`         | [Live Demo](https://caferuu.netlify.app/)                   |
+| **SnapFeed**  | MERN-based social media platform with image sharing and dynamic feeds.         | `MongoDB` `Express.js` `React.js` `Node.js` | [GitHub]((https://github.com/YashDhame9906/SnapFeed.git)     |
+| **PuneVerse** | Travel platform for discovering destinations and planning collaborative trips. | `MERN` `REST APIs` `Tailwind CSS`           | **In Development**                                          |
+| **NeoLight**  | Smart IoT study lamp with automation, presence detection and break reminders.  | `Arduino` `ESP8266` `C++` `IoT`             | [Simulation](https://wokwi.com/projects/462355286077702145) |
 
 ---
 
