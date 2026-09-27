@@ -21,7 +21,7 @@
   <a href="https://www.hackerrank.com/yashdhame12">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-<a href="https://yashdhame9906.github.io/yashdhame-portfolio/" target="_blank">
+<a href="https://yash-dhame-portfolio.vercel.app/" target="_blank">
 
   <img src="https://img.shields.io/badge/💜_Portfolio-Visit-8A2BE2?style=for-the-badge&labelColor=0D1117" />
 
